@@ -7,7 +7,7 @@
 
 ## 🚀 FOLLOW ME
 - [Instagram](https://www.instagram.com/andrerio669/)
-- [Facbook](https://www.facebook.com/andrefigma)
+- [Facebook](https://www.facebook.com/andrefigma)
  
   
 ## 🍺 SUPPORT ME
