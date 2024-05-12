@@ -31,5 +31,5 @@
   
 ## 🍺 SUPPORT ME
 
-- [Saweria](https://saweria.co/andrerio)
 - [Ko-fi](https://ko-fi.com/andrerio)
+- [Saweria](https://saweria.co/andrerio)
