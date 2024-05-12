@@ -32,5 +32,4 @@
 ## 🍺 SUPPORT ME
 
 - [Saweria](https://saweria.co/andrerio)
-- [Paypal](https://www.paypal.com/paypalme/andrerio669)
 - [Ko-fi](https://ko-fi.com/andrerio)
