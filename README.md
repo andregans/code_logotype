@@ -18,6 +18,14 @@
 <img width="150" alt="Cloudflare Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/5d1efe2e-8a50-4c6f-a299-69123efd37a1">
 <img width="150" alt="Sublime Text Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/c9d6f537-386e-4e7f-89c2-6e195dbdf92b">
 <img width="150" alt="Vscode Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/5813fa8d-f662-429c-88e6-f5a473887a41">
+<img width="150" alt="Laravel Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/457e3b60-a150-4c2d-9944-3fb5b4cf8f7e">
+<img width="150" alt="Python Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/d995aae7-1638-4a66-be4d-39e1ec9c58b8">
+<img width="150" alt="C++ Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/69343b83-f1bd-49e5-9cd7-3899bc9d0fcc">
+<img width="150" alt="Ruby Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/7c138133-d52a-4c01-b14a-218cac312083">
+<img width="150" alt="HTML Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/a9c1d727-d2d2-4832-9c0f-ba16b5d59567">
+<img width="150" alt="CSS Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/7f6c6433-cb6d-4dad-9fd4-c5f64bde90bd">
+<img width="150" alt="Javascript Logotype" src="https://github.com/andregans/code_logotype/assets/72931786/4573b91b-da93-4515-a154-516a45a94157">
+
 
 
 ## ✨ CODE LOGOTYPE
